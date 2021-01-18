@@ -1,0 +1,73 @@
+        maDeveloper's General Public Software License
+              Version 4, 14 January 2021
+
+     Copyright (C) maDeveloper. Everyone is permitted to copy and
+   distribute verbatim copies of this license document, but
+   changing it is not allowed.
+
+                    Preamble
+
+     The maDeveloper General Public Software License is a free license
+    for free softwares.
+
+     When we speak of free software, we are referring to both
+    freedom and price. Softwares that uses this license are should
+    be open source ( And source code can easily reachable by user. )
+    and costless.
+
+                Terms of Owning
+
+     Owner can do anything with software. Because he / she
+    owns the software. Owner can switch to close source, owner can
+    change the license, owner can sell software, etc...
+
+                Terms of Transferring
+
+     When the software is transferred, transferred company / developer
+    gains all the rights of software. Transferred company / developer
+    does not have any limits. Transferred company / developer, can do
+    anything with software. They can switch to close source, they can
+    change the license, they can sell the software, etc...
+
+     In summary, transferred company / developer will have the all rights
+    and old owner will lose his / hers rights. Except, transferred company
+    / developer can give rights to old owner as well.
+
+                Terms of Contributing
+
+     Contributers must get permission before adding / removing features.
+    Except in most version control softwares ( Like GIT. ) contributer already
+    asking for permission when making a new pull request. 
+
+                Terms of Distributing
+
+     Any distributor of this software can publish it to use but
+    there are some excepts. User to be want to be a distributor
+    don't need a right to distribute software.
+
+    1. License can't be changed,
+       so distributor should use PSLv4
+       license on distributor's software.
+
+    2. Can't switch to close source,
+       so distributor should continue
+       keeping source copy in a server
+       that anyone can view.
+
+    3. Can't sell with money,
+       so distributed software can't
+       be selled by distributor.
+
+    Summary : Softwares that are using this license should
+              always stay free. ( When we speak of free software,
+              we are referring to both freedom and price. Softwares
+              that uses this license are should be open source ( And
+              source code can easily reachable by user. ) and costless. )
+
+                Terms of Using
+
+     Any user of this software can be a distributor without getting rights
+    from owner. Users are limited with owner's rules. But the software is still
+    free ( When we speak of free software, we are referring to both freedom
+    and price. Softwares that uses this license are should be open source
+    ( And source code can easily reachable by user. ) and costless. ).
