@@ -6,10 +6,10 @@ Copyright (c) 2020 - 2021 maDeveloper. All rights reserved.
 See the [end of this file](https://github.com/typolang/tvm#license) for license information.
 
 ## Links
-- Typo Website: [https://github.com/typolang/site](https://github.com/typolang/site)
+- Typo Website: [https://typolang.github.io/site](https://typolang.github.io/site)
 - Source Code: [https://github.com/typolang/tvm](https://github.com/typolang/tvm)
 - Installer Script: [https://github.com/typolang/typo/raw/main/install.sh](https://github.com/typolang/typo/raw/main/install.sh)
-- Documentation: [https://github.com/typolang/site](https://github.com/typolang/site)
+- Documentation: [https://typolang.github.io/site](https://typolang.github.io/site)
 - Issue Tracker: [https://github.com/typolang/tvm/issues](https://github.com/typolang/tvm/issues)
 
 ## Installing
