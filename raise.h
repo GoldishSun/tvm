@@ -19,17 +19,17 @@
 #define WHT   "\x1B[37m"
 #define RESET "\x1B[0m"
 
-void raise(char* _err_name, char* _err_desc, int _exit_code) {
-    printf(RED "%s" RESET " with code " YEL "%i" RESET ".\n", _err_name, _exit_code);
-    printf(WHT " %s\n" RESET, _err_desc);
-
-    terminate(_exit_code);
-}
-
-void terminate(int _exit_code) {
+void terminate_vm(int _exit_code) {
     printf("\n [ Process terminated with code " RED "%s" RESET " ] \n", _exit_code);
 
     exit(_exit_code);
+}
+
+void raise_error(char* _err_name, char* _err_desc, int _exit_code) {
+    printf(RED "%s" RESET " with code " YEL "%i" RESET ".\n", _err_name, _exit_code);
+    printf(WHT " %s\n" RESET, _err_desc);
+
+    terminate_vm(_exit_code);
 }
 
 #endif
