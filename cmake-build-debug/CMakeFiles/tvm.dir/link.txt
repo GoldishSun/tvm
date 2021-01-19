@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libtvm.so -o libtvm.so CMakeFiles/tvm.dir/library.c.o 
